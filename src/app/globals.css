@@ -6,6 +6,7 @@
   --secondary: #3ACE9C;
   --alert: #FE681F;
   --inactive: #5F6874;
+  --active-menu: #F2ECFD;
   --background: #F5F5F5;
   --poppins: "Poppins", sans-serif;
   --montserrat: "Montserrat", sans-serif;
@@ -16,6 +17,7 @@
   --color-secondary: var(--secondary);
   --color-alert: var(--alert);
   --color-inactive: var(--inactive);
+  --color-active-menu: var(--active-menu);
   --color-background: var(--background);
   --font-poppins: var(--poppins);
   --font-montserrat: var(--montserrat);
